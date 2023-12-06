@@ -1,0 +1,20 @@
+'<p style=<p style="font-size: 24px ; font-weight: bold;text-align: left; color: white; "> ">Eric Palin Hall</p>\n' +
+'\n' +
+'<p style= "text-align: left; color: white;">\n' +
+'\n' +
+'ANALYSIS:<br>\n' +
+'\n' +
+'\n' +
+'This building lacks any biophilic design patterns, even though recent improvements like mirror walls have made the place more comfortable and some classrooms have been refreshed. However, there are no elements that can be associated with biophilic design. The long, dark hallways with flickering lights and the absence of a connection to the exterior make orientation challenging.\n' +
+'<br><br>\n' +
+'\n' +
+'\n' +
+'\n' +
+'\n' +
+'To incorporate biophilic design in an old building with few comfortable features, the benefits of this design approach should be considered. Biophilic architecture proposes options for enhancing spaces, with interior design playing a crucial role. Thoughtful use of furniture, materials, and textures aligned with the biophilic objectives is essential.\n' +
+'<br><br>\n' +
+'\n' +
+'\n' +
+'Overall, integrating biophilic elements can transform the old building into a more inviting and soothing environment.\n' +
+'\n' +
+'</p>\n' +

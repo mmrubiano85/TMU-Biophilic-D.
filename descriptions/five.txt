@@ -1,0 +1,18 @@
+'<p style="font-size: 30px ; font-weight: bold;text-align: left; ">GREEN ROOFS AND TERRACES IN TORONTO'S DOWNTOWN</p>\n'+
+'<p style= "text-align: left; "><br><br>\n'+
+'*Nature connection<br>\n'+
+'*Environmental sustainability<br>\n'+
+'Biodiversity<br>\n'+
+'*Green infrastructure<br>\n'+
+'*Heat island mitigation<br>\n'+
+'*Improved air quality<br>\n'+
+'*Natural insulation<br>\n'+
+'*Recreational spaces<br>\n'+
+'*Enhanced aesthetics<br>\n'+
+'*Productivity boost<br>\n'+
+'*Psychological benefits<br>\n'+
+'*Urban biodiversity<br>\n'+
+'*Carbon sequestration<br>\n'+
+'</p>\n'+
+'\n'+
+'<a href="https://greenroofs.org/about-green-roofs"><button style="background-color: #0074d9; color: white; border: none; border-radius: 20px; padding: 10px 20px; cursor: pointer;">greenroofs.org</button></a>\n'+

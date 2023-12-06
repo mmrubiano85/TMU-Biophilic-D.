@@ -1,0 +1,25 @@
+'<p style="font-size: 28px ; font-weight: bold;text-align: left; ">Kerr Hall</p>\n' +
+'\n' +
+'<p style= "text-align: left; ">\n' +
+'PATTERNS:<br><br>\n' +
+'\n' +
+'\n' +
+'1. Shelter:<br>\n' +
+'This small park serves as a refuge for those people who, within the same city, want to isolate themselves a bit from it. This space is for going out to reflect, interact, walk the dogs, etc. that is called shelter. It provides safety and warming, space setting makes people feel protected. Improves social relationships.\n' +
+'<br><br>\n' +
+'\n' +
+'2. Complexity & Order:<br>\n' +
+'The Kerr Hall meets the conditions of carrying a pattern through its façade, which allows it to have a connection with the interior (to the park) and establish a connection with the activities that are taking place outside. In this he deals with Complexity and order, in order simetries and geometric shapes make the brain feel pleasure and calm, causes a cognitive response. Generates peace and width in spaces.\n' +
+'<br><br>\n' +
+'\n' +
+'3. Connection with Nature:<br>\n' +
+'This park, by receiving not only people from the university but not any city dweller, makes it serve as a space that stands out among all the other spaces on a micro level. Because downtown Toronto doesn't have green, but this is the area where they can find it the most. Introducing this, produces psychological response, grabs attention and let stresses out, benefits are many. Visually it is more pleasing and looks more creative than a simple brick wall. It can be more environmentally friendly.\n' +
+'<br><br>\n' +
+'\n' +
+'\n' +
+'KEYWORDS:<br>\n' +
+'Shelter<br>\n' +
+'Indoor – outdoor connection<br>\n' +
+'order and proportion<br>\n' +
+'\n' +
+'</p>\n' +

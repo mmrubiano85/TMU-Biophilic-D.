@@ -1,0 +1,30 @@
+'<p style="font-size: 28px ; font-weight: bold;text-align: left; color: white; ">Rogers Communications Centre</p>\n' +
+'\n' +
+'<p style= "text-align: left; ">\n' +
+'PATTERNS:<br><br>\n' +
+'\n' +
+'<p style= "text-align: left; color: white;">\n' +
+'1. Prospect:<br>\n' +
+'The integration of the building into its context and its relationship with the surroundings are crucial aspects. In this case, "prospect" refers to providing users with a condition that allows them to visually survey and contemplate the surrounding environment. The building achieves this through its transparent volume, which not only defines internal circulation but also facilitates a seamless connection between the historic church and the patrimonial building of urban innovation.\n' +
+'<br><br>\n' +
+'\n' +
+'2. Visual Connection with Nature:<br>\n' +
+'Incorporating elements of nature creates a sense of calmness, stimulation, and enhanced concentration for the building's occupants. This design pattern fosters an environment that relaxes the eyes and reduces cognitive fatigue. The transparent design element in this building not only adds hierarchy to the space but also creates a striking contrast with the small skylights above, resulting in expansive areas for studying with abundant natural light and a tranquil ambiance.\n' +
+'<br><br>\n' +
+'\n' +
+'3. Biomorphic Forms & Patterns:<br>\n' +
+'The building's design features interesting and comfortable spaces with captivating elements that invite contemplation and foster a stronger connection between humans and nature. By incorporating creative interventions such as paintings and vines, the building gains a special touch that evokes admiration for the elements that harmoniously blend with the natural surroundings.\n' +
+'<br><br>\n' +
+'\n' +
+'\n' +
+'Keywords:<br>\n' +
+'Transparency<br>\n' +
+'Nature-inspired materials<br>\n' +
+'Comfort and freshness<br>\n' +
+'<br><br>\n' +
+'\n' +
+'ANALYSIS:<br>\n' +
+'When projecting a design, not only the object or volume itself must be taken into account, but also the surrounding buildings, this includes churches, residential buildings, offices, etc. This building specifically, was designed with the aim of keeping the church as a visible point and thus it could stand out, so from the top of it, an axis is traced that reaches the void of the building, and then through a garden and trail, continue to the urban sciences building. How does it influence having this void there, taking into account that it is a volume that is not only given to represent the circulation, but also said axis? The resource of the void highlights and hierarchizes the axis with the church, framing it and also configuring the distribution of spaces and circulations inside.\n' +
+'On the other hand, the interior is given by open study spaces, with mirrorwalls and ceiling that can represent the inclusion of Biophilic Design.<br><br>\n' +
+'What is the importance of having spaces open to the interior and how can biophilic design be incorporated into these, beyond plants? Trying to integrate architecture and nature literally or abstractly brings less pollution, physical health and more comfortable and fresh environments.\n' +
+'</p>\n' +
